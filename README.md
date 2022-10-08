@@ -8,5 +8,5 @@
 
 ### Information
 * [Projects](./pages/projects.md)
-* [Experience & Extracurriculars)(./pages/experience.md)
-* [Education & Skills](./pages/skills.md)
+* [Experience & Extracurriculars](./pages/experience.md)
+* [Education & Skills](./pages/education.md)
